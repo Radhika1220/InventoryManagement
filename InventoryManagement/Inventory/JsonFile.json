@@ -1,0 +1,63 @@
+{
+  "RiceList": [
+    {
+      "Name": "Daawat Biryani",
+      "Price": 130,
+      "Kg": 8,
+      "Type": "Long Grain"
+    },
+    {
+      "Name": "Fortune EveryDay",
+      "Price": 170,
+      "Kg": 9,
+      "Type": "Broken Grain"
+    },
+    {
+      "Name": "India gate",
+      "Price": 130,
+      "Kg": 4,
+      "Type": "basmati rice"
+    }
+  ],
+  "PulseList": [
+    {
+      "Name": "Kidney Beans",
+      "Price": 110,
+      "Kg": 2,
+      "Type": "Red Beans"
+    },
+    {
+      "Name": "Kala Chana",
+      "Price": 90,
+      "Kg": 3,
+      "Type": "Dry"
+    },
+    {
+      "Name": "Mung Beans",
+      "Price": 110,
+      "Kg": 2,
+      "Type": "Greenish"
+    }
+  ],
+  "WheatList": [
+    {
+      "Name": "Durum Wheat",
+      "Price": 70,
+      "Kg": 2,
+      "Type": "Pasta"
+    },
+    {
+      "Name": "Soft white wheat",
+      "Price": 120,
+      "Kg": 3,
+      "Type": "spring wheat"
+    },
+    {
+      "Name": "Hard white wheat",
+      "Price": 150,
+      "Kg": 5,
+      "Type": "tortillas"
+    },
+  ]
+
+}
